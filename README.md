@@ -8,3 +8,4 @@ Admin:
     - Quản lý tài khỏa (thêm, xóa, sửa)
     - Gửi mail thông báo khi đặt phòng cho khách hàng
     
+    
